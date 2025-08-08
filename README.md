@@ -1,12 +1,12 @@
 ### :wave: Halo, Ananta disini
 
-![Sparkle](./images/sparkle.webp)
+![Sparkle](https://github.com/rikarani/rikarani/blob/main/images/sparkle.webp)
 
 - Mahasiswa
-- Fokusnya di Web Development (walaupun sekarang bisanya cuma CRUD doang)
+- Fokusnya di kamu doang kok (walaupun sekarang bisanya cuma melihat doang tanpa bisa memiliki :⁠'⁠( )
 - maaf masih pemula
 
-[![Phasya Ananta GitHub stats](https://github-readme-stats.vercel.app/api?username=rikarani&show_icons=true&hide=contribs&theme=ayu-mirage)](https://github.com/rikarani/github-readme-stats)
+[![malas GitHub stats](https://github-readme-stats.vercel.app/api?username=rikarani&show_icons=true&hide=contribs&theme=ayu-mirage)](https://github.com/rikarani/github-readme-stats)
 
 ---
 
@@ -28,7 +28,7 @@
     <summary><strong>babu</strong></summary>
     <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
     <img src="https://img.shields.io/badge/github%20copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
-    <p>ak bisa pake github copilot karna apply github edu (mayan 2 tahun kwkwkw)</p>
+    <p>ak bisa pake github copilot karna apply github edu (mayan 2 tahun kwkwkw dan kalau mau sini aku bantu buatkan github student nya,free kok</p>
 </details>
 
 ---
